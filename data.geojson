@@ -6,6 +6,10 @@
       "id": "1",
       "lat": 54.431792,
       "lon": 18.4705912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.4705912, 54.431792]
+      },
       "tags": {
         "name": "test",
         "items": "can",
@@ -20,6 +24,10 @@
       "id": "2",
       "lat": 54.432,
       "lon": 18.471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.471, 54.432]
+      },
       "tags": {
         "name": "example",
         "items": "bottle",
@@ -31,5 +39,4 @@
     }
   ]
 }
-
 
