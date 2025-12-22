@@ -4,40 +4,41 @@
     {
       "type": "node",
       "id": "1",
-      "lat": 54.431792,
-      "lon": 18.4705912,
+      "lat": 54.4274039367202,
+      "lon": 18.485926200386512,
       "geometry": {
         "type": "Point",
-        "coordinates": [18.4705912, 54.431792]
+        "coordinates": [18.485926200386512, 54.4274039367202]
       },
       "tags": {
-        "name": "test",
+        "name": "Automat Kaucyjny",
         "items": "puszki",
         "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:00-18:00",
         "addr:city": "Gdańsk",
-        "addr:street": "Długa",
+        "addr:street": "Galaktyczna",
         "addr:housenumber": "1"
       }
     },
     {
       "type": "node",
       "id": "2",
-      "lat": 54.432,
-      "lon": 18.471,
+      "lat": 54.42708690216307,
+      "lon": 18.484148498922533,
       "geometry": {
         "type": "Point",
-        "coordinates": [18.471, 54.432]
+        "coordinates": [18.484148498922533, 54.42708690216307]
       },
       "tags": {
-        "name": "example",
+        "name": "Automat Kaucyjny",
         "items": "plastik",
         "opening_hours": "Mo-Su 09:00-21:00",
         "addr:city": "Gdańsk",
-        "addr:street": "Mariacka",
-        "addr:housenumber": "5"
+        "addr:street": "Feniksa",
+        "addr:housenumber": "9"
       }
     }
   ]
 }
+
 
 
