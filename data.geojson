@@ -12,7 +12,7 @@
       },
       "tags": {
         "name": "test",
-        "items": "can",
+        "items": "puszki",
         "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:00-18:00",
         "addr:city": "Gdańsk",
         "addr:street": "Długa",
@@ -30,7 +30,7 @@
       },
       "tags": {
         "name": "example",
-        "items": "bottle",
+        "items": "plastik",
         "opening_hours": "Mo-Su 09:00-21:00",
         "addr:city": "Gdańsk",
         "addr:street": "Mariacka",
@@ -39,4 +39,5 @@
     }
   ]
 }
+
 
