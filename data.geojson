@@ -30,7 +30,7 @@
       },
       "tags": {
         "name": "Automat Kaucyjny",
-        "items": "szklo",
+        "items": "szklane butelki",
         "opening_hours": "Mo-Su 09:00-21:00",
         "addr:city": "Gdańsk",
         "addr:street": "Feniksa",
@@ -39,6 +39,7 @@
     }
   ]
 }
+
 
 
 
